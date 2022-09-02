@@ -4,7 +4,7 @@ background-color: #FF0000;
 
 #banner {
 	width: 100%;
-	background: #EEE685;
+	background: # FF0000;
 	width: 100%;
 	padding: 10px;
 	text-align: center;
@@ -12,7 +12,7 @@ background-color: #FF0000;
 
 .titulo-principal {
 	padding-left: 40px;
-	background: #FFFACD;
+	background: # EEE685;
 	width: 100%;
 	text-align: center;
 	font-size: 60px;
